@@ -1166,5 +1166,15 @@ https://uk2.streamingpulse.com/ssl/vcr1
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cdn-profiles.tunein.com/s95144/images/logod.png",Venice Classic Radio - Live
 https://uk2.streamingpulse.com/ssl/vcr2
 
-#EXTINF:-1,PLAYBOY
-http://ift.tt/1JWYY0U
+#EXTINF:0,PFC
+http://ift.tt/1eFmVvC
+#EXTINF:0,TVCINE 4
+http://ift.tt/1DeIm25
+#EXTINF:0,TVCINE 3
+http://ift.tt/1eFmT6O
+#EXTINF:0,TVCINE 2
+http://ift.tt/1DeIjUc
+#EXTINF:0,TVCINE 1
+http://ift.tt/1eFmT6Q
+#EXTINF:0,holliwood
+http://ift.tt/1DeIm27
